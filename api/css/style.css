@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.pixabay {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: block;
+  padding: 50px;
+  margin: inherit;
+  width: 40%;
+}
+
+.pixabay-form {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+input[type="text"] {
+  width: 500px;
+  height: 40px;
+  padding: 5px 10px;
+  font-size: 22px;
+}
+
+.btn-pix {
+  height: 54px;
+  padding: 5px 10px;
+  font-size: 22px;
+  background-color: #008ddf;
+  color: #FFF;
+}
+
+.result {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.result-img {
+  vertical-align: middle;
+  margin: 10px;
+  width: 20%;
+}
